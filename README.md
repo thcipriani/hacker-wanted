@@ -16,8 +16,11 @@ Duties &amp; Responsibilities
  * Maintenance of our streaming servers&#8212;SAM Broadcaster, Ices2, Icecast &amp; Windows Media Server
  * Maintenance of our virtualized pool of servers on the Xen platform
  * Developing players for our streams in both Flash &amp; HTML5
+ * Maintenance of company websites
  * Other basic design &amp; development-related tasks (basic Photoshop, HTML, CSS, JavaScript skills)
  * General knowledge of all of these things would be nice, but we&#8217;re willing to get the right person up to speed!
+ * Remote client technical support
+ * Some office/IT support
 
 Desired Skills
 --------------
