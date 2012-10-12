@@ -38,7 +38,7 @@ Official Benefits
 
 Work Environment &amp; Unofficial Benefits
 ----------------------------------------
- * Relaxed dress code with optional cape Friday&#8217s
+ * Relaxed dress code with optional cape Friday&#8217;s
  * Afternoon beer &amp; brainstorming sessions
  * Access to our GINORMOUS music library with new music added daily
  * Music-centered office environment
