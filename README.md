@@ -1,7 +1,9 @@
 IF YOU CAN ADMIN A XEN POOL FROM THE TERMINAL&#8212;WE WANT YOU!
 =============================================================
 
-TECHNICAL COORDINATOR & DEVELOPER
+<hr /> 
+
+Technical Coordinator & Developer
 =========================
 Custom Channels&#8212;a small internet-based streaming company positioned in Boulder, Colorado&#8212;is seeking a highly motivated person to join our technical team. The person for which we&#8217;re searching would, ideally, be comfortable working in both a Windows &amp; Linux environment &amp; be eager to learn our systems.
 
@@ -45,5 +47,5 @@ How to Apply
 ------------
 1. **Read all instructions thoroughly.**
 3. Fork this repository.
-4. Look at the README in all four directories &amp; follow the instructions.
+4. Look at the README in each of our directories &amp; follow the instructions.
 5. Host your forked, updated repo on github &amp; send us the link at info@customchannels.net
