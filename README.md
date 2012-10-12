@@ -19,10 +19,11 @@ Desired Skills
  * Intermediate-level knowledge of server, computer &amp; network administration from a *nix environment
  * Basic knowledge of computer &amp; network troubleshooting
  * Basic knowledge of networking &amp; remote network-troubleshooting
- * Familiarity with Xen Server a huge plus!
  * Basic knowledge of streaming codecs
  * Intermediate-level knowledge of HTML, CSS, JavaScript &amp; Flash
  * Good written &amp; verbal communication skills
+ * Familiarity with MySQL a plus
+ * Familiarity with using and and all of the above technologies in a Xen Server environment a huge plus!
 
 Official Benefits
 -----------------

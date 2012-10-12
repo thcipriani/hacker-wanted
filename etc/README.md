@@ -9,3 +9,8 @@ Please answer the following administrative questions:
 
 3. Do you have any planned vacations/absences in the next
    six months that we should know about?
+
+4. Tell us (or better yet show us :)) about a recent project
+   of yours that used some of the skills we talked about in 
+   our job description. Feel free to use this directory to
+   upload files that help explain your project.
